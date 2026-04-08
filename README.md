@@ -37,7 +37,7 @@ Bu proje, bir SOC Analyst’in temel yeteneklerini göstermek amacıyla gelişti
 ## Kurulum ve Çalıştırma
 
 1. Python 3.10+ yüklü olmalı  
-2. **Scapy kütüphanesini yükle**
+2. Scapy kütüphanesini yükle
 
 ```bash
 pip install scapy
