@@ -1,4 +1,4 @@
-# soc_packet_analysis_final.py
+# packet_analysis.py
 from scapy.all import sniff, TCP, IP, ICMP, UDP
 from collections import defaultdict
 import logging
