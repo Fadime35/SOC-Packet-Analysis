@@ -84,6 +84,8 @@ UDP_THRESHOLD = 10
 ## Proje Çıktıları
 
 **CLI:** Canlı paket ve ALERT görüntüleme
+
 **alerts.log:** ALERT kayıt dosyası
+
 **Zamanlı özet rapor:** Paket ve ALERT istatistikleri
     
